@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "mtxr.sqltools-driver-pg",
+        "mtxr.sqltools",
+        "tamasfe.even-better-toml",
+        "editorconfig.editorconfig",
+        "rust-lang.rust-analyzer",
+        "vadimcn.vscode-lldb"
+    ]
+}
