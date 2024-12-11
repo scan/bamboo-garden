@@ -5,6 +5,7 @@
         "tamasfe.even-better-toml",
         "editorconfig.editorconfig",
         "rust-lang.rust-analyzer",
-        "vadimcn.vscode-lldb"
+        "vadimcn.vscode-lldb",
+        "ms-vscode-remote.remote-containers"
     ]
 }
