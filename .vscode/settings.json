@@ -1,3 +1,15 @@
 {
     "sqltools.useNodeRuntime": false,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "Local Dev",
+            "database": "bamboo-garden",
+            "username": "postgres",
+            "password": "password"
+        }
+    ],
 }

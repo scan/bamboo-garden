@@ -20,7 +20,8 @@
 				"mtxr.sqltools",
 				"rust-lang.rust-analyzer",
 				"tamasfe.even-better-toml",
-				"mtxr.sqltools-driver-pg"
+				"mtxr.sqltools-driver-pg",
+				"redhat.vscode-yaml"
 			]
 		}
 	}
